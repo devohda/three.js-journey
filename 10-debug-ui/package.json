@@ -1,4 +1,6 @@
 {
+  "name": "10-debug-ui",
+  "version": "0.0.0",
   "repository": "#",
   "license": "UNLICENSED",
   "scripts": {
