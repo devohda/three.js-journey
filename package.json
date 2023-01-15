@@ -2,7 +2,6 @@
   "dependencies": {
     "prettier": "^2.7.1"
   },
-  "private": "true",
   "workspaces": [
     "03-basic-scene-final",
     "04-webpack",
@@ -13,6 +12,8 @@
     "09-geometries",
     "10-debug-ui",
     "11-textures",
-    "12-materials"
+    "12-materials",
+    "22-physics",
+    "38-importing-and-optimizing-the-scene"
   ]
 }
